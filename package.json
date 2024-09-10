@@ -1,0 +1,25 @@
+{
+  "name": "proto-bot",
+  "version": "1.0.0",
+  "description": "A prototype for bot that extend the capabilities of ODINv2 ",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncpoint/proto-bot.git"
+  },
+  "keywords": [
+    "ODIN",
+    "ODINv2",
+    "matrix",
+    "bot"
+  ],
+  "author": "thomas.halwax@syncpoint.io",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/syncpoint/proto-bot/issues"
+  },
+  "homepage": "https://github.com/syncpoint/proto-bot#readme"
+}
